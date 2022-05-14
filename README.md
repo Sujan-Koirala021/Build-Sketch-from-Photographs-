@@ -3,6 +3,10 @@
 
 This is a simple project that builds pencil sketch like images from photographs.
 
+![img](https://user-images.githubusercontent.com/84112374/168413177-5b232b1c-6e94-4776-82fb-94ea807f8906.JPG)
+
+![finalimage](https://user-images.githubusercontent.com/84112374/168413231-613355b9-d143-40fb-9c72-0c6010fe161e.jpg)
+
 # About OpenCV
 OpenCV stands for Open Source stands for Computer Vision, it is developed by Intel and Willow Garage, It is Officially launched in 1999 and later will Garage in 2000. OpenCV binds with Python to solve real-world problems. It supports languages like Python, Java, and MATLAB
 
